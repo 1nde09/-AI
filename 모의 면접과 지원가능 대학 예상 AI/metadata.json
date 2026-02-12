@@ -1,0 +1,8 @@
+{
+  "name": "모의 면접과 지원가능 대학 예상 AI",
+  "description": "A high-end mock interview simulation platform using Gemini Live API for real-time voice interaction and personalized AI feedback across various industries and university admissions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
